@@ -1,8 +1,8 @@
 
 ### About Me
-I am Senior Compositor, since 17 years I am working on the vfx world. 
-I work in movies, architecture studios and other postproduction houses. 
-My speciality is visual effects and I am big fan of recreating other worlds from a green screen.
+I am Senior Compositor, since 17 years I am working on the vfx world.                                
+I work in movies, architecture studios and other postproduction houses.                                  
+My speciality is visual effects and I am big fan of recreating other worlds from a green screen.                                   
 
 ### Skils
 -  **Nuke**
