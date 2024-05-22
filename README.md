@@ -9,8 +9,7 @@ My speciality is visual effects and I am big fan of recreating other worlds from
 -  **Mocha**
 -  **Maya**
 -  **Python**
--  **Python**
-  
+
 ### Loading
 - **PyQt / PySide**
 - **Side Effects Houdini**
