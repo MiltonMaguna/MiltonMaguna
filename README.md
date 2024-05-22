@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**MiltonMaguna/MiltonMaguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am Senior Compositor, since 17 years I am working on the vfx world. 
+I work in movies, architecture studios and other postproduction houses. 
+My speciality is visual effects and I am big fan of recreating other worlds from a green screen.
 
-Here are some ideas to get you started:
+### Skils
+-  **Nuke**
+-  **Mocha**
+-  **Maya**
+-  **Python**
+-  **Python**
+  
+### Loading
+- **PyQt / PySide**
+- **Side Effects Houdini**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact me
+- [DemoReel2019](https://vimeo.com/414397229)
+- [Linkedin](https://www.linkedin.com/in/miltonmaguna/)
+- [Zerply](https://zerply.com/milton-maguna)
+- Email: milton.maguna@gmail.com
